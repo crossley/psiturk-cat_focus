@@ -1,0 +1,112 @@
+<!doctype html>
+<!-- 
+  The consent.html displays the text of your IRB-approved
+  consent form.  Even if you are not required to provide
+  a consent form, it is helpful to use this form to 
+  describe what people can do if an error comes up, etc...
+
+-->
+<html>
+    <head>
+        <title>Psychology Experiment - Informed Consent Form</title>
+        <link rel=stylesheet href="/static/css/bootstrap.min.css" type="text/css">
+        <link rel=stylesheet href="/static/css/style.css" type="text/css">
+        <script type="text/javascript">
+            function onexit() {
+              self.close(); // no harm, no foul here
+            }
+        </script>
+    </head>
+    <body>
+        <div id="container-consent">
+            <div id="consent">
+                <img src="/static/images/header.png" width="800px"\>
+                <hr>
+                <div class="legal well">
+                    <p class="consent-title">
+
+Title of Study: Cognitive Neuroscience Studies of Action and Cognition
+</p>
+
+<p class="consent-title">
+Consent to Participate in a Research Study
+</p>
+
+<p>
+
+My name is Professor Richard Ivry. I am a faculty member in the Psychology Department at the University of California, Berkeley. I invite you to take part in a research study. The research deals with how people acquire and produce certain 'motor skill' behaviors and how visual and auditory information are used to guide actions, as well as how the specialization of different parts of your brain can affect your performance. The study may involve carrying out different tasks involving motor skills. 
+</p>
+<p>
+<span class="consent-title">
+Procedures
+</span><br>
+If you agree to participate, this is what will happen:
+You will be seated in front of a computer monitor. The computer will present visual displays or auditory signals that are used to indicate the types of movements you are supposed to produce. The manner of your response will vary depending on the experiment you have been recruited for. You may be asked to press keys on a keyboard, using the fingers of your hand.
+
+The test session will take around 60 minutes. 
+</p><p>
+<span class="consent-title">
+Benefits
+</span><br>
+It is important that you understand there is no direct benefit to you anticipated from your participation in this study. Healthy people, such as yourself, provide us with the standard level of performance on these tasks. 
+</p><p>
+<span class="consent-title">
+Risks
+</span><br>
+It is possible but unlikely that doing any of the tasks could cause you discomfort. The visual and auditory stimuli are presented at a comfortable lighting and sound level and the movements require a minimal amount of effort. These procedures have been used extensively in previous research, and we have taken precautions to prevent any discomforts or malfunctions of the devices. There is a slight chance you may feel frustrated or uncomfortable if some of the tasks are difficult for you to do, but you are free to discontinue your participation in the study if you choose. 
+</p><p>
+<span class="consent-title">
+Confidentiality
+</span><br>
+Participation in research may involve a loss of privacy, but your information will be handled as confidentially as possible. While there is a small chance that the confidentiality of the information collected could be compromised, we will take care to prevent this from happening. Your results will be coded, and you will not be identified in any presentation of publication about the study unless you give specific consent for this. Study data and the key to the code for subject identities will be kept in separate, locked files, and only the principal investigator and lab coordinator will have access to them. Your data will be securely stored for 10 years and then destroyed. 
+</p>
+
+<p>
+<span class="consent-title">
+
+Payment
+</span><br>
+You will be paid $6 for completing the task. 
+</p>
+
+<p>
+<span class="consent-title">
+
+Questions
+</span><br>
+If you have any questions about this research, please call me, Professor Richard Ivry, at 510-642-7146 (office) or 510-642-0135 (lab), or email me at ivry@berkeley.edu.
+</p><p>
+If you have any questions about your rights or treatment as a participant in this research project, please contact the University of California at Berkeley Committee for Protection of Human Subjects at 510-642-7461 or subjects@berkeley.edu.
+</p><p>
+<b>PARTICIPATION IN RESEARCH IS VOLUNTARY.</b> You are free to choose not to take part, or you may terminate your participation in the experiment at any time. 
+                    </p>
+
+
+
+
+                    <button type="button" class="btn btn-default btn-sm" onClick="window.print();">
+                    <span class="glyphicon glyphicon-print"></span> Print a copy of this
+                    </button>
+                </div>
+
+                <hr>
+                <h4>Do you understand and consent to these terms?</h4>
+                <br>
+
+                <center style="padding-bottom:50px;">
+                    <button type="button" class="btn btn-primary btn-lg" onClick="window.location='/exp?hitId={{ hitid }}&assignmentId={{ assignmentid }}&workerId={{ workerid }}'">
+                    <span class="glyphicon glyphicon-ok"></span> I agree 
+                    </button>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <button type="button" class="btn btn-danger btn-lg" onClick="onexit()">
+                    <span class="glyphicon glyphicon-ban-circle"></span> No thanks, I do not want to do this HIT
+                    </button>
+                </center>
+
+            </div>
+        </div>
+    </body>
+</html>
+

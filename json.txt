@@ -1,0 +1,3957 @@
+[
+    {
+        "current_trial": 0,
+        "trialdata": {
+            "phase": "INSTRUCTIONS",
+            "templates": [
+                "instructions/instruct-1.html",
+                "instructions/instruct-ready.html"
+            ],
+            "action": "Begin"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512364642
+    },
+    {
+        "current_trial": 1,
+        "trialdata": {
+            "phase": "INSTRUCTIONS",
+            "indexOf": 0,
+            "viewTime": 82018,
+            "action": "NextPage",
+            "template": "instructions/instruct-1.html"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512446664
+    },
+    {
+        "current_trial": 2,
+        "trialdata": {
+            "phase": "INSTRUCTIONS",
+            "indexOf": 1,
+            "viewTime": 9506,
+            "action": "FinishInstructions",
+            "template": "instructions/instruct-ready.html"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512456174
+    },
+    {
+        "current_trial": 3,
+        "trialdata": {
+            "rt": 1604,
+            "word": "1",
+            "color": "/static/images/ii/stim254.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512457801
+    },
+    {
+        "current_trial": 4,
+        "trialdata": {
+            "rt": 1155,
+            "word": "2",
+            "color": "/static/images/ii/stim510.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512461464
+    },
+    {
+        "current_trial": 5,
+        "trialdata": {
+            "rt": 1050,
+            "word": "2",
+            "color": "/static/images/ii/stim370.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512465016
+    },
+    {
+        "current_trial": 6,
+        "trialdata": {
+            "rt": 1794,
+            "word": "1",
+            "color": "/static/images/ii/stim118.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512469311
+    },
+    {
+        "current_trial": 7,
+        "trialdata": {
+            "rt": 1533,
+            "word": "1",
+            "color": "/static/images/ii/stim102.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512473344
+    },
+    {
+        "current_trial": 8,
+        "trialdata": {
+            "rt": 1603,
+            "word": "1",
+            "color": "/static/images/ii/stim222.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512477448
+    },
+    {
+        "current_trial": 9,
+        "trialdata": {
+            "rt": 1643,
+            "word": "1",
+            "color": "/static/images/ii/stim162.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512481591
+    },
+    {
+        "current_trial": 10,
+        "trialdata": {
+            "rt": 1283,
+            "word": "1",
+            "color": "/static/images/ii/stim154.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512485375
+    },
+    {
+        "current_trial": 11,
+        "trialdata": {
+            "rt": 1411,
+            "word": "1",
+            "color": "/static/images/ii/stim166.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512489287
+    },
+    {
+        "current_trial": 12,
+        "trialdata": {
+            "rt": 1377,
+            "word": "1",
+            "color": "/static/images/ii/stim96.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512493166
+    },
+    {
+        "current_trial": 13,
+        "trialdata": {
+            "rt": 1076,
+            "word": "1",
+            "color": "/static/images/ii/stim266.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512496742
+    },
+    {
+        "current_trial": 14,
+        "trialdata": {
+            "rt": 1811,
+            "word": "1",
+            "color": "/static/images/ii/stim24.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512501054
+    },
+    {
+        "current_trial": 15,
+        "trialdata": {
+            "rt": 1281,
+            "word": "1",
+            "color": "/static/images/ii/stim124.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512504838
+    },
+    {
+        "current_trial": 16,
+        "trialdata": {
+            "rt": 1482,
+            "word": "2",
+            "color": "/static/images/ii/stim344.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512508822
+    },
+    {
+        "current_trial": 17,
+        "trialdata": {
+            "rt": 898,
+            "word": "1",
+            "color": "/static/images/ii/stim152.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512512222
+    },
+    {
+        "current_trial": 18,
+        "trialdata": {
+            "rt": 851,
+            "word": "1",
+            "color": "/static/images/ii/stim86.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512515574
+    },
+    {
+        "current_trial": 19,
+        "trialdata": {
+            "rt": 1275,
+            "word": "2",
+            "color": "/static/images/ii/stim364.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512519350
+    },
+    {
+        "current_trial": 20,
+        "trialdata": {
+            "rt": 1445,
+            "word": "1",
+            "color": "/static/images/ii/stim52.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512523295
+    },
+    {
+        "current_trial": 21,
+        "trialdata": {
+            "rt": 1810,
+            "word": "1",
+            "color": "/static/images/ii/stim170.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512527606
+    },
+    {
+        "current_trial": 22,
+        "trialdata": {
+            "rt": 1587,
+            "word": "1",
+            "color": "/static/images/ii/stim284.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512531695
+    },
+    {
+        "current_trial": 23,
+        "trialdata": {
+            "rt": 1346,
+            "word": "1",
+            "color": "/static/images/ii/stim132.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512535543
+    },
+    {
+        "current_trial": 24,
+        "trialdata": {
+            "rt": 1092,
+            "word": "2",
+            "color": "/static/images/ii/stim438.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512539135
+    },
+    {
+        "current_trial": 25,
+        "trialdata": {
+            "rt": 1393,
+            "word": "2",
+            "color": "/static/images/ii/stim430.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512543031
+    },
+    {
+        "current_trial": 26,
+        "trialdata": {
+            "rt": 1562,
+            "word": "2",
+            "color": "/static/images/ii/stim368.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512547094
+    },
+    {
+        "current_trial": 27,
+        "trialdata": {
+            "rt": 931,
+            "word": "2",
+            "color": "/static/images/ii/stim480.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512550526
+    },
+    {
+        "current_trial": 28,
+        "trialdata": {
+            "rt": 1322,
+            "word": "1",
+            "color": "/static/images/ii/stim22.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512554350
+    },
+    {
+        "current_trial": 29,
+        "trialdata": {
+            "rt": 1411,
+            "word": "1",
+            "color": "/static/images/ii/stim106.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512558262
+    },
+    {
+        "current_trial": 30,
+        "trialdata": {
+            "rt": 1411,
+            "word": "2",
+            "color": "/static/images/ii/stim398.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512562174
+    },
+    {
+        "current_trial": 31,
+        "trialdata": {
+            "rt": 1273,
+            "word": "2",
+            "color": "/static/images/ii/stim496.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512565950
+    },
+    {
+        "current_trial": 32,
+        "trialdata": {
+            "rt": 1243,
+            "word": "2",
+            "color": "/static/images/ii/stim538.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512569694
+    },
+    {
+        "current_trial": 33,
+        "trialdata": {
+            "rt": 1370,
+            "word": "1",
+            "color": "/static/images/ii/stim182.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512573566
+    },
+    {
+        "current_trial": 34,
+        "trialdata": {
+            "rt": 1701,
+            "word": "1",
+            "color": "/static/images/ii/stim38.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512578103
+    },
+    {
+        "current_trial": 35,
+        "trialdata": {
+            "rt": 2074,
+            "word": "2",
+            "color": "/static/images/ii/stim372.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512582678
+    },
+    {
+        "current_trial": 36,
+        "trialdata": {
+            "rt": 1987,
+            "word": "1",
+            "color": "/static/images/ii/stim278.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512587167
+    },
+    {
+        "current_trial": 37,
+        "trialdata": {
+            "rt": 1410,
+            "word": "1",
+            "color": "/static/images/ii/stim138.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512591078
+    },
+    {
+        "current_trial": 38,
+        "trialdata": {
+            "rt": 1604,
+            "word": "1",
+            "color": "/static/images/ii/stim54.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512595183
+    },
+    {
+        "current_trial": 39,
+        "trialdata": {
+            "rt": 1659,
+            "word": "1",
+            "color": "/static/images/ii/stim20.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512599342
+    },
+    {
+        "current_trial": 40,
+        "trialdata": {
+            "rt": 1187,
+            "word": "3",
+            "color": "/static/images/ii/stim598.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512603030
+    },
+    {
+        "current_trial": 41,
+        "trialdata": {
+            "rt": 1538,
+            "word": "2",
+            "color": "/static/images/ii/stim322.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512607070
+    },
+    {
+        "current_trial": 42,
+        "trialdata": {
+            "rt": 1659,
+            "word": "2",
+            "color": "/static/images/ii/stim394.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512611230
+    },
+    {
+        "current_trial": 43,
+        "trialdata": {
+            "rt": 1555,
+            "word": "2",
+            "color": "/static/images/ii/stim392.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512615286
+    },
+    {
+        "current_trial": 44,
+        "trialdata": {
+            "rt": 1572,
+            "word": "2",
+            "color": "/static/images/ii/stim354.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512619359
+    },
+    {
+        "current_trial": 45,
+        "trialdata": {
+            "rt": 1396,
+            "word": "2",
+            "color": "/static/images/ii/stim452.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512623255
+    },
+    {
+        "current_trial": 46,
+        "trialdata": {
+            "rt": 1468,
+            "word": "2",
+            "color": "/static/images/ii/stim506.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512627223
+    },
+    {
+        "current_trial": 47,
+        "trialdata": {
+            "rt": 1865,
+            "word": "1",
+            "color": "/static/images/ii/stim218.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512631589
+    },
+    {
+        "current_trial": 48,
+        "trialdata": {
+            "rt": 1171,
+            "word": "2",
+            "color": "/static/images/ii/stim426.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512635262
+    },
+    {
+        "current_trial": 49,
+        "trialdata": {
+            "rt": 2051,
+            "word": "1",
+            "color": "/static/images/ii/stim114.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512639814
+    },
+    {
+        "current_trial": 50,
+        "trialdata": {
+            "rt": 2588,
+            "word": "2",
+            "color": "/static/images/ii/stim534.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512644903
+    },
+    {
+        "current_trial": 51,
+        "trialdata": {
+            "rt": 2709,
+            "word": "1",
+            "color": "/static/images/ii/stim230.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512650112
+    },
+    {
+        "current_trial": 52,
+        "trialdata": {
+            "rt": 2146,
+            "word": "1",
+            "color": "/static/images/ii/stim256.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512654758
+    },
+    {
+        "current_trial": 53,
+        "trialdata": {
+            "rt": 2460,
+            "word": "2",
+            "color": "/static/images/ii/stim562.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512659719
+    },
+    {
+        "current_trial": 54,
+        "trialdata": {
+            "rt": 2411,
+            "word": "1",
+            "color": "/static/images/ii/stim46.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512664631
+    },
+    {
+        "current_trial": 55,
+        "trialdata": {
+            "rt": 1732,
+            "word": "2",
+            "color": "/static/images/ii/stim590.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512668863
+    },
+    {
+        "current_trial": 56,
+        "trialdata": {
+            "rt": 1595,
+            "word": "1",
+            "color": "/static/images/ii/stim272.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512672959
+    },
+    {
+        "current_trial": 57,
+        "trialdata": {
+            "rt": 1684,
+            "word": "1",
+            "color": "/static/images/ii/stim296.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512677143
+    },
+    {
+        "current_trial": 58,
+        "trialdata": {
+            "rt": 2683,
+            "word": "2",
+            "color": "/static/images/ii/stim312.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512682327
+    },
+    {
+        "current_trial": 59,
+        "trialdata": {
+            "rt": 2067,
+            "word": "2",
+            "color": "/static/images/ii/stim350.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512686895
+    },
+    {
+        "current_trial": 60,
+        "trialdata": {
+            "rt": 6075,
+            "word": "1",
+            "color": "/static/images/ii/stim294.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512695470
+    },
+    {
+        "current_trial": 61,
+        "trialdata": {
+            "rt": 2493,
+            "word": "1",
+            "color": "/static/images/ii/stim228.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512700463
+    },
+    {
+        "current_trial": 62,
+        "trialdata": {
+            "rt": 2378,
+            "word": "1",
+            "color": "/static/images/ii/stim42.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512705343
+    },
+    {
+        "current_trial": 63,
+        "trialdata": {
+            "rt": 1875,
+            "word": "2",
+            "color": "/static/images/ii/stim544.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512709719
+    },
+    {
+        "current_trial": 64,
+        "trialdata": {
+            "rt": 1587,
+            "word": "2",
+            "color": "/static/images/ii/stim532.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512713806
+    },
+    {
+        "current_trial": 65,
+        "trialdata": {
+            "rt": 1435,
+            "word": "2",
+            "color": "/static/images/ii/stim428.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512717743
+    },
+    {
+        "current_trial": 66,
+        "trialdata": {
+            "rt": 2866,
+            "word": "2",
+            "color": "/static/images/ii/stim528.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512723110
+    },
+    {
+        "current_trial": 67,
+        "trialdata": {
+            "rt": 1882,
+            "word": "2",
+            "color": "/static/images/ii/stim488.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512727495
+    },
+    {
+        "current_trial": 68,
+        "trialdata": {
+            "rt": 2539,
+            "word": "2",
+            "color": "/static/images/ii/stim306.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512732535
+    },
+    {
+        "current_trial": 69,
+        "trialdata": {
+            "rt": 1636,
+            "word": "2",
+            "color": "/static/images/ii/stim390.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512736671
+    },
+    {
+        "current_trial": 70,
+        "trialdata": {
+            "rt": 2546,
+            "word": "2",
+            "color": "/static/images/ii/stim446.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512741718
+    },
+    {
+        "current_trial": 71,
+        "trialdata": {
+            "rt": 16565,
+            "word": "1",
+            "color": "/static/images/ii/stim236.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "-1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512760783
+    },
+    {
+        "current_trial": 72,
+        "trialdata": {
+            "rt": 1890,
+            "word": "2",
+            "color": "/static/images/ii/stim358.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512765174
+    },
+    {
+        "current_trial": 73,
+        "trialdata": {
+            "rt": 1051,
+            "word": "2",
+            "color": "/static/images/ii/stim466.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512768727
+    },
+    {
+        "current_trial": 74,
+        "trialdata": {
+            "rt": 1818,
+            "word": "1",
+            "color": "/static/images/ii/stim108.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512773046
+    },
+    {
+        "current_trial": 75,
+        "trialdata": {
+            "rt": 1610,
+            "word": "1",
+            "color": "/static/images/ii/stim6.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512777159
+    },
+    {
+        "current_trial": 76,
+        "trialdata": {
+            "rt": 2555,
+            "word": "1",
+            "color": "/static/images/ii/stim58.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512782215
+    },
+    {
+        "current_trial": 77,
+        "trialdata": {
+            "rt": 1483,
+            "word": "2",
+            "color": "/static/images/ii/stim412.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512786198
+    },
+    {
+        "current_trial": 78,
+        "trialdata": {
+            "rt": 2379,
+            "word": "2",
+            "color": "/static/images/ii/stim308.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512791078
+    },
+    {
+        "current_trial": 79,
+        "trialdata": {
+            "rt": 1394,
+            "word": "2",
+            "color": "/static/images/ii/stim582.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512794975
+    },
+    {
+        "current_trial": 80,
+        "trialdata": {
+            "rt": 3964,
+            "word": "2",
+            "color": "/static/images/ii/stim586.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512801439
+    },
+    {
+        "current_trial": 81,
+        "trialdata": {
+            "rt": 4899,
+            "word": "2",
+            "color": "/static/images/ii/stim436.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512808839
+    },
+    {
+        "current_trial": 82,
+        "trialdata": {
+            "rt": 3201,
+            "word": "1",
+            "color": "/static/images/ii/stim280.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512814542
+    },
+    {
+        "current_trial": 83,
+        "trialdata": {
+            "rt": 3651,
+            "word": "1",
+            "color": "/static/images/ii/stim142.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512820695
+    },
+    {
+        "current_trial": 84,
+        "trialdata": {
+            "rt": 3403,
+            "word": "1",
+            "color": "/static/images/ii/stim204.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512826599
+    },
+    {
+        "current_trial": 85,
+        "trialdata": {
+            "rt": 2459,
+            "word": "2",
+            "color": "/static/images/ii/stim504.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512831559
+    },
+    {
+        "current_trial": 86,
+        "trialdata": {
+            "rt": 2362,
+            "word": "2",
+            "color": "/static/images/ii/stim376.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512836422
+    },
+    {
+        "current_trial": 87,
+        "trialdata": {
+            "rt": 1711,
+            "word": "1",
+            "color": "/static/images/ii/stim14.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512840640
+    },
+    {
+        "current_trial": 88,
+        "trialdata": {
+            "rt": 1154,
+            "word": "1",
+            "color": "/static/images/ii/stim198.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512844295
+    },
+    {
+        "current_trial": 89,
+        "trialdata": {
+            "rt": 1731,
+            "word": "2",
+            "color": "/static/images/ii/stim342.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512848527
+    },
+    {
+        "current_trial": 90,
+        "trialdata": {
+            "rt": 1331,
+            "word": "2",
+            "color": "/static/images/ii/stim382.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512852358
+    },
+    {
+        "current_trial": 91,
+        "trialdata": {
+            "rt": 1139,
+            "word": "2",
+            "color": "/static/images/ii/stim352.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512855999
+    },
+    {
+        "current_trial": 92,
+        "trialdata": {
+            "rt": 1324,
+            "word": "2",
+            "color": "/static/images/ii/stim360.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512859823
+    },
+    {
+        "current_trial": 93,
+        "trialdata": {
+            "rt": 3564,
+            "word": "2",
+            "color": "/static/images/ii/stim476.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512865887
+    },
+    {
+        "current_trial": 94,
+        "trialdata": {
+            "rt": 2586,
+            "word": "2",
+            "color": "/static/images/ii/stim596.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512870974
+    },
+    {
+        "current_trial": 95,
+        "trialdata": {
+            "rt": 2098,
+            "word": "2",
+            "color": "/static/images/ii/stim556.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512875574
+    },
+    {
+        "current_trial": 96,
+        "trialdata": {
+            "rt": 2596,
+            "word": "2",
+            "color": "/static/images/ii/stim386.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512880670
+    },
+    {
+        "current_trial": 97,
+        "trialdata": {
+            "rt": 2515,
+            "word": "2",
+            "color": "/static/images/ii/stim576.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512885686
+    },
+    {
+        "current_trial": 98,
+        "trialdata": {
+            "rt": 3186,
+            "word": "1",
+            "color": "/static/images/ii/stim98.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512891374
+    },
+    {
+        "current_trial": 99,
+        "trialdata": {
+            "rt": 1877,
+            "word": "1",
+            "color": "/static/images/ii/stim88.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512895753
+    },
+    {
+        "current_trial": 100,
+        "trialdata": {
+            "rt": 1976,
+            "word": "2",
+            "color": "/static/images/ii/stim568.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512900231
+    },
+    {
+        "current_trial": 101,
+        "trialdata": {
+            "rt": 1315,
+            "word": "1",
+            "color": "/static/images/ii/stim276.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512904046
+    },
+    {
+        "current_trial": 102,
+        "trialdata": {
+            "rt": 1844,
+            "word": "2",
+            "color": "/static/images/ii/stim434.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512908391
+    },
+    {
+        "current_trial": 103,
+        "trialdata": {
+            "rt": 1603,
+            "word": "2",
+            "color": "/static/images/ii/stim362.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512912494
+    },
+    {
+        "current_trial": 104,
+        "trialdata": {
+            "rt": 1348,
+            "word": "1",
+            "color": "/static/images/ii/stim78.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512916343
+    },
+    {
+        "current_trial": 105,
+        "trialdata": {
+            "rt": 2570,
+            "word": "1",
+            "color": "/static/images/ii/stim128.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512921414
+    },
+    {
+        "current_trial": 106,
+        "trialdata": {
+            "rt": 2114,
+            "word": "2",
+            "color": "/static/images/ii/stim552.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512926031
+    },
+    {
+        "current_trial": 107,
+        "trialdata": {
+            "rt": 2265,
+            "word": "1",
+            "color": "/static/images/ii/stim36.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512930798
+    },
+    {
+        "current_trial": 108,
+        "trialdata": {
+            "rt": 1555,
+            "word": "2",
+            "color": "/static/images/ii/stim418.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512934854
+    },
+    {
+        "current_trial": 109,
+        "trialdata": {
+            "rt": 1485,
+            "word": "2",
+            "color": "/static/images/ii/stim522.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512938839
+    },
+    {
+        "current_trial": 110,
+        "trialdata": {
+            "rt": 1930,
+            "word": "1",
+            "color": "/static/images/ii/stim220.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512943270
+    },
+    {
+        "current_trial": 111,
+        "trialdata": {
+            "rt": 2106,
+            "word": "2",
+            "color": "/static/images/ii/stim574.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512947878
+    },
+    {
+        "current_trial": 112,
+        "trialdata": {
+            "rt": 2363,
+            "word": "1",
+            "color": "/static/images/ii/stim258.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512952743
+    },
+    {
+        "current_trial": 113,
+        "trialdata": {
+            "rt": 1587,
+            "word": "1",
+            "color": "/static/images/ii/stim238.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512956831
+    },
+    {
+        "current_trial": 114,
+        "trialdata": {
+            "rt": 1531,
+            "word": "1",
+            "color": "/static/images/ii/stim202.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512960863
+    },
+    {
+        "current_trial": 115,
+        "trialdata": {
+            "rt": 1770,
+            "word": "1",
+            "color": "/static/images/ii/stim28.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512965135
+    },
+    {
+        "current_trial": 116,
+        "trialdata": {
+            "rt": 2770,
+            "word": "1",
+            "color": "/static/images/ii/stim156.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512970407
+    },
+    {
+        "current_trial": 117,
+        "trialdata": {
+            "rt": 2465,
+            "word": "2",
+            "color": "/static/images/ii/stim570.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512975374
+    },
+    {
+        "current_trial": 118,
+        "trialdata": {
+            "rt": 1372,
+            "word": "1",
+            "color": "/static/images/ii/stim208.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512979247
+    },
+    {
+        "current_trial": 119,
+        "trialdata": {
+            "rt": 1314,
+            "word": "2",
+            "color": "/static/images/ii/stim444.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512983062
+    },
+    {
+        "current_trial": 120,
+        "trialdata": {
+            "rt": 2130,
+            "word": "2",
+            "color": "/static/images/ii/stim490.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512987694
+    },
+    {
+        "current_trial": 121,
+        "trialdata": {
+            "rt": 1018,
+            "word": "2",
+            "color": "/static/images/ii/stim536.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512991215
+    },
+    {
+        "current_trial": 122,
+        "trialdata": {
+            "rt": 1194,
+            "word": "1",
+            "color": "/static/images/ii/stim172.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512994911
+    },
+    {
+        "current_trial": 123,
+        "trialdata": {
+            "rt": 1324,
+            "word": "1",
+            "color": "/static/images/ii/stim212.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413512998735
+    },
+    {
+        "current_trial": 124,
+        "trialdata": {
+            "rt": 1065,
+            "word": "2",
+            "color": "/static/images/ii/stim554.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513002302
+    },
+    {
+        "current_trial": 125,
+        "trialdata": {
+            "rt": 2579,
+            "word": "1",
+            "color": "/static/images/ii/stim56.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513007383
+    },
+    {
+        "current_trial": 126,
+        "trialdata": {
+            "rt": 1963,
+            "word": "1",
+            "color": "/static/images/ii/stim110.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513011847
+    },
+    {
+        "current_trial": 127,
+        "trialdata": {
+            "rt": 1433,
+            "word": "2",
+            "color": "/static/images/ii/stim304.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513015782
+    },
+    {
+        "current_trial": 128,
+        "trialdata": {
+            "rt": 2188,
+            "word": "1",
+            "color": "/static/images/ii/stim184.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513020471
+    },
+    {
+        "current_trial": 129,
+        "trialdata": {
+            "rt": 1300,
+            "word": "2",
+            "color": "/static/images/ii/stim542.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513024271
+    },
+    {
+        "current_trial": 130,
+        "trialdata": {
+            "rt": 1028,
+            "word": "2",
+            "color": "/static/images/ii/stim408.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513027800
+    },
+    {
+        "current_trial": 131,
+        "trialdata": {
+            "rt": 1577,
+            "word": "1",
+            "color": "/static/images/ii/stim0.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513031879
+    },
+    {
+        "current_trial": 132,
+        "trialdata": {
+            "rt": 1914,
+            "word": "2",
+            "color": "/static/images/ii/stim302.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513036294
+    },
+    {
+        "current_trial": 133,
+        "trialdata": {
+            "rt": 2236,
+            "word": "2",
+            "color": "/static/images/ii/stim560.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513041031
+    },
+    {
+        "current_trial": 134,
+        "trialdata": {
+            "rt": 2145,
+            "word": "2",
+            "color": "/static/images/ii/stim492.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513045678
+    },
+    {
+        "current_trial": 135,
+        "trialdata": {
+            "rt": 2076,
+            "word": "2",
+            "color": "/static/images/ii/stim502.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513050255
+    },
+    {
+        "current_trial": 136,
+        "trialdata": {
+            "rt": 2259,
+            "word": "2",
+            "color": "/static/images/ii/stim378.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513055014
+    },
+    {
+        "current_trial": 137,
+        "trialdata": {
+            "rt": 1043,
+            "word": "2",
+            "color": "/static/images/ii/stim328.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513058559
+    },
+    {
+        "current_trial": 138,
+        "trialdata": {
+            "rt": 2532,
+            "word": "1",
+            "color": "/static/images/ii/stim246.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513063591
+    },
+    {
+        "current_trial": 139,
+        "trialdata": {
+            "rt": 1106,
+            "word": "1",
+            "color": "/static/images/ii/stim44.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513067198
+    },
+    {
+        "current_trial": 140,
+        "trialdata": {
+            "rt": 1420,
+            "word": "2",
+            "color": "/static/images/ii/stim366.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513071119
+    },
+    {
+        "current_trial": 141,
+        "trialdata": {
+            "rt": 1244,
+            "word": "2",
+            "color": "/static/images/ii/stim558.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513074863
+    },
+    {
+        "current_trial": 142,
+        "trialdata": {
+            "rt": 2348,
+            "word": "2",
+            "color": "/static/images/ii/stim402.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513079711
+    },
+    {
+        "current_trial": 143,
+        "trialdata": {
+            "rt": 1338,
+            "word": "2",
+            "color": "/static/images/ii/stim572.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513083550
+    },
+    {
+        "current_trial": 144,
+        "trialdata": {
+            "rt": 1740,
+            "word": "1",
+            "color": "/static/images/ii/stim262.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513087791
+    },
+    {
+        "current_trial": 145,
+        "trialdata": {
+            "rt": 1275,
+            "word": "1",
+            "color": "/static/images/ii/stim122.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513091566
+    },
+    {
+        "current_trial": 146,
+        "trialdata": {
+            "rt": 2139,
+            "word": "2",
+            "color": "/static/images/ii/stim396.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513096206
+    },
+    {
+        "current_trial": 147,
+        "trialdata": {
+            "rt": 1084,
+            "word": "2",
+            "color": "/static/images/ii/stim380.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513099791
+    },
+    {
+        "current_trial": 148,
+        "trialdata": {
+            "rt": 3076,
+            "word": "1",
+            "color": "/static/images/ii/stim196.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513105367
+    },
+    {
+        "current_trial": 149,
+        "trialdata": {
+            "rt": 1298,
+            "word": "2",
+            "color": "/static/images/ii/stim450.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513109166
+    },
+    {
+        "current_trial": 150,
+        "trialdata": {
+            "rt": 1451,
+            "word": "1",
+            "color": "/static/images/ii/stim200.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513113126
+    },
+    {
+        "current_trial": 151,
+        "trialdata": {
+            "rt": 1531,
+            "word": "2",
+            "color": "/static/images/ii/stim422.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513117159
+    },
+    {
+        "current_trial": 152,
+        "trialdata": {
+            "rt": 986,
+            "word": "1",
+            "color": "/static/images/ii/stim178.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513120646
+    },
+    {
+        "current_trial": 153,
+        "trialdata": {
+            "rt": 1519,
+            "word": "1",
+            "color": "/static/images/ii/stim150.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513124735
+    },
+    {
+        "current_trial": 154,
+        "trialdata": {
+            "rt": 1659,
+            "word": "2",
+            "color": "/static/images/ii/stim594.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513128895
+    },
+    {
+        "current_trial": 155,
+        "trialdata": {
+            "rt": 1564,
+            "word": "2",
+            "color": "/static/images/ii/stim546.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513132959
+    },
+    {
+        "current_trial": 156,
+        "trialdata": {
+            "rt": 2625,
+            "word": "1",
+            "color": "/static/images/ii/stim126.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513138086
+    },
+    {
+        "current_trial": 157,
+        "trialdata": {
+            "rt": 2596,
+            "word": "2",
+            "color": "/static/images/ii/stim498.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513143183
+    },
+    {
+        "current_trial": 158,
+        "trialdata": {
+            "rt": 1435,
+            "word": "2",
+            "color": "/static/images/ii/stim464.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513147118
+    },
+    {
+        "current_trial": 159,
+        "trialdata": {
+            "rt": 1484,
+            "word": "1",
+            "color": "/static/images/ii/stim234.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513151103
+    },
+    {
+        "current_trial": 160,
+        "trialdata": {
+            "rt": 1491,
+            "word": "2",
+            "color": "/static/images/ii/stim530.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513155095
+    },
+    {
+        "current_trial": 161,
+        "trialdata": {
+            "rt": 1636,
+            "word": "1",
+            "color": "/static/images/ii/stim292.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513159231
+    },
+    {
+        "current_trial": 162,
+        "trialdata": {
+            "rt": 2380,
+            "word": "1",
+            "color": "/static/images/ii/stim4.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513164111
+    },
+    {
+        "current_trial": 163,
+        "trialdata": {
+            "rt": 3617,
+            "word": "2",
+            "color": "/static/images/ii/stim520.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513170230
+    },
+    {
+        "current_trial": 164,
+        "trialdata": {
+            "rt": 2588,
+            "word": "2",
+            "color": "/static/images/ii/stim340.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513175319
+    },
+    {
+        "current_trial": 165,
+        "trialdata": {
+            "rt": 2537,
+            "word": "1",
+            "color": "/static/images/ii/stim92.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513180358
+    },
+    {
+        "current_trial": 166,
+        "trialdata": {
+            "rt": 3028,
+            "word": "1",
+            "color": "/static/images/ii/stim244.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513185887
+    },
+    {
+        "current_trial": 167,
+        "trialdata": {
+            "rt": 1817,
+            "word": "2",
+            "color": "/static/images/ii/stim410.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513190206
+    },
+    {
+        "current_trial": 168,
+        "trialdata": {
+            "rt": 3194,
+            "word": "1",
+            "color": "/static/images/ii/stim84.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513195902
+    },
+    {
+        "current_trial": 169,
+        "trialdata": {
+            "rt": 1443,
+            "word": "1",
+            "color": "/static/images/ii/stim260.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513199846
+    },
+    {
+        "current_trial": 170,
+        "trialdata": {
+            "rt": 1612,
+            "word": "2",
+            "color": "/static/images/ii/stim540.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513203958
+    },
+    {
+        "current_trial": 171,
+        "trialdata": {
+            "rt": 1386,
+            "word": "1",
+            "color": "/static/images/ii/stim174.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513207846
+    },
+    {
+        "current_trial": 172,
+        "trialdata": {
+            "rt": 1852,
+            "word": "2",
+            "color": "/static/images/ii/stim442.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513212199
+    },
+    {
+        "current_trial": 173,
+        "trialdata": {
+            "rt": 1323,
+            "word": "2",
+            "color": "/static/images/ii/stim474.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513216023
+    },
+    {
+        "current_trial": 174,
+        "trialdata": {
+            "rt": 2682,
+            "word": "2",
+            "color": "/static/images/ii/stim500.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513221206
+    },
+    {
+        "current_trial": 175,
+        "trialdata": {
+            "rt": 1253,
+            "word": "2",
+            "color": "/static/images/ii/stim334.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513224959
+    },
+    {
+        "current_trial": 176,
+        "trialdata": {
+            "rt": 1355,
+            "word": "1",
+            "color": "/static/images/ii/stim290.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513228815
+    },
+    {
+        "current_trial": 177,
+        "trialdata": {
+            "rt": 1115,
+            "word": "1",
+            "color": "/static/images/ii/stim48.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513232430
+    },
+    {
+        "current_trial": 178,
+        "trialdata": {
+            "rt": 1353,
+            "word": "1",
+            "color": "/static/images/ii/stim214.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513236287
+    },
+    {
+        "current_trial": 179,
+        "trialdata": {
+            "rt": 1835,
+            "word": "1",
+            "color": "/static/images/ii/stim232.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513240623
+    },
+    {
+        "current_trial": 180,
+        "trialdata": {
+            "rt": 2300,
+            "word": "1",
+            "color": "/static/images/ii/stim130.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513245423
+    },
+    {
+        "current_trial": 181,
+        "trialdata": {
+            "rt": 2699,
+            "word": "1",
+            "color": "/static/images/ii/stim112.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513250623
+    },
+    {
+        "current_trial": 182,
+        "trialdata": {
+            "rt": 1091,
+            "word": "1",
+            "color": "/static/images/ii/stim104.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513254215
+    },
+    {
+        "current_trial": 183,
+        "trialdata": {
+            "rt": 2043,
+            "word": "2",
+            "color": "/static/images/ii/stim330.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513258759
+    },
+    {
+        "current_trial": 184,
+        "trialdata": {
+            "rt": 2499,
+            "word": "2",
+            "color": "/static/images/ii/stim336.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513263759
+    },
+    {
+        "current_trial": 185,
+        "trialdata": {
+            "rt": 1131,
+            "word": "2",
+            "color": "/static/images/ii/stim548.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513267391
+    },
+    {
+        "current_trial": 186,
+        "trialdata": {
+            "rt": 2106,
+            "word": "2",
+            "color": "/static/images/ii/stim486.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513271998
+    },
+    {
+        "current_trial": 187,
+        "trialdata": {
+            "rt": 1404,
+            "word": "2",
+            "color": "/static/images/ii/stim484.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513275902
+    },
+    {
+        "current_trial": 188,
+        "trialdata": {
+            "rt": 1084,
+            "word": "2",
+            "color": "/static/images/ii/stim406.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513279487
+    },
+    {
+        "current_trial": 189,
+        "trialdata": {
+            "rt": 1195,
+            "word": "2",
+            "color": "/static/images/ii/stim454.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513283183
+    },
+    {
+        "current_trial": 190,
+        "trialdata": {
+            "rt": 2154,
+            "word": "2",
+            "color": "/static/images/ii/stim348.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513287838
+    },
+    {
+        "current_trial": 191,
+        "trialdata": {
+            "rt": 1419,
+            "word": "1",
+            "color": "/static/images/ii/stim70.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513291759
+    },
+    {
+        "current_trial": 192,
+        "trialdata": {
+            "rt": 1435,
+            "word": "1",
+            "color": "/static/images/ii/stim226.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513295694
+    },
+    {
+        "current_trial": 193,
+        "trialdata": {
+            "rt": 2106,
+            "word": "1",
+            "color": "/static/images/ii/stim250.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513300302
+    },
+    {
+        "current_trial": 194,
+        "trialdata": {
+            "rt": 1675,
+            "word": "2",
+            "color": "/static/images/ii/stim316.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513304479
+    },
+    {
+        "current_trial": 195,
+        "trialdata": {
+            "rt": 2012,
+            "word": "2",
+            "color": "/static/images/ii/stim440.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513308991
+    },
+    {
+        "current_trial": 196,
+        "trialdata": {
+            "rt": 1890,
+            "word": "1",
+            "color": "/static/images/ii/stim274.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513313382
+    },
+    {
+        "current_trial": 197,
+        "trialdata": {
+            "rt": 1099,
+            "word": "1",
+            "color": "/static/images/ii/stim64.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513316983
+    },
+    {
+        "current_trial": 198,
+        "trialdata": {
+            "rt": 1555,
+            "word": "1",
+            "color": "/static/images/ii/stim74.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513321039
+    },
+    {
+        "current_trial": 199,
+        "trialdata": {
+            "rt": 1795,
+            "word": "2",
+            "color": "/static/images/ii/stim384.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513325335
+    },
+    {
+        "current_trial": 200,
+        "trialdata": {
+            "rt": 1194,
+            "word": "1",
+            "color": "/static/images/ii/stim168.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513329031
+    },
+    {
+        "current_trial": 201,
+        "trialdata": {
+            "rt": 2266,
+            "word": "1",
+            "color": "/static/images/ii/stim116.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513333799
+    },
+    {
+        "current_trial": 202,
+        "trialdata": {
+            "rt": 1179,
+            "word": "2",
+            "color": "/static/images/ii/stim320.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513337479
+    },
+    {
+        "current_trial": 203,
+        "trialdata": {
+            "rt": 2209,
+            "word": "2",
+            "color": "/static/images/ii/stim388.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513342190
+    },
+    {
+        "current_trial": 204,
+        "trialdata": {
+            "rt": 2444,
+            "word": "1",
+            "color": "/static/images/ii/stim148.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513347135
+    },
+    {
+        "current_trial": 205,
+        "trialdata": {
+            "rt": 1075,
+            "word": "1",
+            "color": "/static/images/ii/stim76.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513350711
+    },
+    {
+        "current_trial": 206,
+        "trialdata": {
+            "rt": 971,
+            "word": "1",
+            "color": "/static/images/ii/stim8.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513354183
+    },
+    {
+        "current_trial": 207,
+        "trialdata": {
+            "rt": 1562,
+            "word": "1",
+            "color": "/static/images/ii/stim2.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513358246
+    },
+    {
+        "current_trial": 208,
+        "trialdata": {
+            "rt": 1698,
+            "word": "1",
+            "color": "/static/images/ii/stim60.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513362446
+    },
+    {
+        "current_trial": 209,
+        "trialdata": {
+            "rt": 1530,
+            "word": "2",
+            "color": "/static/images/ii/stim318.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513366478
+    },
+    {
+        "current_trial": 210,
+        "trialdata": {
+            "rt": 2332,
+            "word": "2",
+            "color": "/static/images/ii/stim518.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513371311
+    },
+    {
+        "current_trial": 211,
+        "trialdata": {
+            "rt": 1899,
+            "word": "1",
+            "color": "/static/images/ii/stim40.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513375711
+    },
+    {
+        "current_trial": 212,
+        "trialdata": {
+            "rt": 1274,
+            "word": "1",
+            "color": "/static/images/ii/stim264.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513379486
+    },
+    {
+        "current_trial": 213,
+        "trialdata": {
+            "rt": 1235,
+            "word": "1",
+            "color": "/static/images/ii/stim94.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513383223
+    },
+    {
+        "current_trial": 214,
+        "trialdata": {
+            "rt": 1716,
+            "word": "1",
+            "color": "/static/images/ii/stim68.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513387439
+    },
+    {
+        "current_trial": 215,
+        "trialdata": {
+            "rt": 2115,
+            "word": "1",
+            "color": "/static/images/ii/stim30.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513392055
+    },
+    {
+        "current_trial": 216,
+        "trialdata": {
+            "rt": 2411,
+            "word": "1",
+            "color": "/static/images/ii/stim32.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513396966
+    },
+    {
+        "current_trial": 217,
+        "trialdata": {
+            "rt": 1987,
+            "word": "2",
+            "color": "/static/images/ii/stim356.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513401454
+    },
+    {
+        "current_trial": 218,
+        "trialdata": {
+            "rt": 1656,
+            "word": "2",
+            "color": "/static/images/ii/stim578.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513405631
+    },
+    {
+        "current_trial": 219,
+        "trialdata": {
+            "rt": 3450,
+            "word": "2",
+            "color": "/static/images/ii/stim516.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513411582
+    },
+    {
+        "current_trial": 220,
+        "trialdata": {
+            "rt": 1364,
+            "word": "1",
+            "color": "/static/images/ii/stim72.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513415448
+    },
+    {
+        "current_trial": 221,
+        "trialdata": {
+            "rt": 1139,
+            "word": "2",
+            "color": "/static/images/ii/stim458.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513419087
+    },
+    {
+        "current_trial": 222,
+        "trialdata": {
+            "rt": 2218,
+            "word": "2",
+            "color": "/static/images/ii/stim326.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513423806
+    },
+    {
+        "current_trial": 223,
+        "trialdata": {
+            "rt": 2674,
+            "word": "1",
+            "color": "/static/images/ii/stim80.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513428983
+    },
+    {
+        "current_trial": 224,
+        "trialdata": {
+            "rt": 1467,
+            "word": "2",
+            "color": "/static/images/ii/stim338.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513432950
+    },
+    {
+        "current_trial": 225,
+        "trialdata": {
+            "rt": 1410,
+            "word": "1",
+            "color": "/static/images/ii/stim26.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513436863
+    },
+    {
+        "current_trial": 226,
+        "trialdata": {
+            "rt": 1459,
+            "word": "2",
+            "color": "/static/images/ii/stim514.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513440823
+    },
+    {
+        "current_trial": 227,
+        "trialdata": {
+            "rt": 2146,
+            "word": "2",
+            "color": "/static/images/ii/stim460.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513445470
+    },
+    {
+        "current_trial": 228,
+        "trialdata": {
+            "rt": 3227,
+            "word": "1",
+            "color": "/static/images/ii/stim16.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513451198
+    },
+    {
+        "current_trial": 229,
+        "trialdata": {
+            "rt": 2123,
+            "word": "1",
+            "color": "/static/images/ii/stim268.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513455823
+    },
+    {
+        "current_trial": 230,
+        "trialdata": {
+            "rt": 1467,
+            "word": "2",
+            "color": "/static/images/ii/stim584.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513459791
+    },
+    {
+        "current_trial": 231,
+        "trialdata": {
+            "rt": 1187,
+            "word": "2",
+            "color": "/static/images/ii/stim592.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513463479
+    },
+    {
+        "current_trial": 232,
+        "trialdata": {
+            "rt": 1267,
+            "word": "2",
+            "color": "/static/images/ii/stim494.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513467246
+    },
+    {
+        "current_trial": 233,
+        "trialdata": {
+            "rt": 3114,
+            "word": "1",
+            "color": "/static/images/ii/stim286.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513472863
+    },
+    {
+        "current_trial": 234,
+        "trialdata": {
+            "rt": 1489,
+            "word": "1",
+            "color": "/static/images/ii/stim240.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513476855
+    },
+    {
+        "current_trial": 235,
+        "trialdata": {
+            "rt": 1178,
+            "word": "1",
+            "color": "/static/images/ii/stim82.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513480534
+    },
+    {
+        "current_trial": 236,
+        "trialdata": {
+            "rt": 1403,
+            "word": "1",
+            "color": "/static/images/ii/stim90.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513484438
+    },
+    {
+        "current_trial": 237,
+        "trialdata": {
+            "rt": 1491,
+            "word": "1",
+            "color": "/static/images/ii/stim190.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513488432
+    },
+    {
+        "current_trial": 238,
+        "trialdata": {
+            "rt": 1353,
+            "word": "1",
+            "color": "/static/images/ii/stim298.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513492287
+    },
+    {
+        "current_trial": 239,
+        "trialdata": {
+            "rt": 1009,
+            "word": "2",
+            "color": "/static/images/ii/stim332.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513495798
+    },
+    {
+        "current_trial": 240,
+        "trialdata": {
+            "rt": 1331,
+            "word": "1",
+            "color": "/static/images/ii/stim160.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513499631
+    },
+    {
+        "current_trial": 241,
+        "trialdata": {
+            "rt": 1995,
+            "word": "2",
+            "color": "/static/images/ii/stim374.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513504127
+    },
+    {
+        "current_trial": 242,
+        "trialdata": {
+            "rt": 2491,
+            "word": "2",
+            "color": "/static/images/ii/stim580.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513509119
+    },
+    {
+        "current_trial": 243,
+        "trialdata": {
+            "rt": 1275,
+            "word": "1",
+            "color": "/static/images/ii/stim100.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513512894
+    },
+    {
+        "current_trial": 244,
+        "trialdata": {
+            "rt": 2130,
+            "word": "2",
+            "color": "/static/images/ii/stim470.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513517526
+    },
+    {
+        "current_trial": 245,
+        "trialdata": {
+            "rt": 1762,
+            "word": "2",
+            "color": "/static/images/ii/stim324.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513521791
+    },
+    {
+        "current_trial": 246,
+        "trialdata": {
+            "rt": 1818,
+            "word": "1",
+            "color": "/static/images/ii/stim140.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513526111
+    },
+    {
+        "current_trial": 247,
+        "trialdata": {
+            "rt": 2251,
+            "word": "1",
+            "color": "/static/images/ii/stim206.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513530863
+    },
+    {
+        "current_trial": 248,
+        "trialdata": {
+            "rt": 2458,
+            "word": "1",
+            "color": "/static/images/ii/stim248.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513535822
+    },
+    {
+        "current_trial": 249,
+        "trialdata": {
+            "rt": 1476,
+            "word": "1",
+            "color": "/static/images/ii/stim146.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513539799
+    },
+    {
+        "current_trial": 250,
+        "trialdata": {
+            "rt": 2395,
+            "word": "2",
+            "color": "/static/images/ii/stim524.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513544695
+    },
+    {
+        "current_trial": 251,
+        "trialdata": {
+            "rt": 1417,
+            "word": "2",
+            "color": "/static/images/ii/stim482.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513548614
+    },
+    {
+        "current_trial": 252,
+        "trialdata": {
+            "rt": 1010,
+            "word": "2",
+            "color": "/static/images/ii/stim432.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513552126
+    },
+    {
+        "current_trial": 253,
+        "trialdata": {
+            "rt": 1469,
+            "word": "2",
+            "color": "/static/images/ii/stim564.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513556095
+    },
+    {
+        "current_trial": 254,
+        "trialdata": {
+            "rt": 1483,
+            "word": "1",
+            "color": "/static/images/ii/stim242.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513560079
+    },
+    {
+        "current_trial": 255,
+        "trialdata": {
+            "rt": 1156,
+            "word": "1",
+            "color": "/static/images/ii/stim136.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513563735
+    },
+    {
+        "current_trial": 256,
+        "trialdata": {
+            "rt": 874,
+            "word": "1",
+            "color": "/static/images/ii/stim12.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513567111
+    },
+    {
+        "current_trial": 257,
+        "trialdata": {
+            "rt": 1006,
+            "word": "2",
+            "color": "/static/images/ii/stim404.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513570617
+    },
+    {
+        "current_trial": 258,
+        "trialdata": {
+            "rt": 5338,
+            "word": "1",
+            "color": "/static/images/ii/stim10.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513578455
+    },
+    {
+        "current_trial": 259,
+        "trialdata": {
+            "rt": 1459,
+            "word": "2",
+            "color": "/static/images/ii/stim588.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513582415
+    },
+    {
+        "current_trial": 260,
+        "trialdata": {
+            "rt": 1971,
+            "word": "2",
+            "color": "/static/images/ii/stim420.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513586887
+    },
+    {
+        "current_trial": 261,
+        "trialdata": {
+            "rt": 1377,
+            "word": "2",
+            "color": "/static/images/ii/stim472.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513590766
+    },
+    {
+        "current_trial": 262,
+        "trialdata": {
+            "rt": 1211,
+            "word": "2",
+            "color": "/static/images/ii/stim400.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513594478
+    },
+    {
+        "current_trial": 263,
+        "trialdata": {
+            "rt": 2315,
+            "word": "1",
+            "color": "/static/images/ii/stim134.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513599295
+    },
+    {
+        "current_trial": 264,
+        "trialdata": {
+            "rt": 1849,
+            "word": "1",
+            "color": "/static/images/ii/stim176.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513603646
+    },
+    {
+        "current_trial": 265,
+        "trialdata": {
+            "rt": 2580,
+            "word": "2",
+            "color": "/static/images/ii/stim456.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513608727
+    },
+    {
+        "current_trial": 266,
+        "trialdata": {
+            "rt": 3435,
+            "word": "2",
+            "color": "/static/images/ii/stim566.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513614662
+    },
+    {
+        "current_trial": 267,
+        "trialdata": {
+            "rt": 1733,
+            "word": "1",
+            "color": "/static/images/ii/stim186.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513618903
+    },
+    {
+        "current_trial": 268,
+        "trialdata": {
+            "rt": 2443,
+            "word": "2",
+            "color": "/static/images/ii/stim416.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513623846
+    },
+    {
+        "current_trial": 269,
+        "trialdata": {
+            "rt": 1227,
+            "word": "1",
+            "color": "/static/images/ii/stim282.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513627574
+    },
+    {
+        "current_trial": 270,
+        "trialdata": {
+            "rt": 1763,
+            "word": "1",
+            "color": "/static/images/ii/stim188.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513631839
+    },
+    {
+        "current_trial": 271,
+        "trialdata": {
+            "rt": 1978,
+            "word": "2",
+            "color": "/static/images/ii/stim462.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513636319
+    },
+    {
+        "current_trial": 272,
+        "trialdata": {
+            "rt": 1411,
+            "word": "1",
+            "color": "/static/images/ii/stim270.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513640231
+    },
+    {
+        "current_trial": 273,
+        "trialdata": {
+            "rt": 2002,
+            "word": "1",
+            "color": "/static/images/ii/stim18.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513644735
+    },
+    {
+        "current_trial": 274,
+        "trialdata": {
+            "rt": 1122,
+            "word": "1",
+            "color": "/static/images/ii/stim164.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513648359
+    },
+    {
+        "current_trial": 275,
+        "trialdata": {
+            "rt": 1612,
+            "word": "2",
+            "color": "/static/images/ii/stim468.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513652471
+    },
+    {
+        "current_trial": 276,
+        "trialdata": {
+            "rt": 1677,
+            "word": "1",
+            "color": "/static/images/ii/stim62.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513656655
+    },
+    {
+        "current_trial": 277,
+        "trialdata": {
+            "rt": 1508,
+            "word": "1",
+            "color": "/static/images/ii/stim192.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513660663
+    },
+    {
+        "current_trial": 278,
+        "trialdata": {
+            "rt": 1329,
+            "word": "1",
+            "color": "/static/images/ii/stim34.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513664494
+    },
+    {
+        "current_trial": 279,
+        "trialdata": {
+            "rt": 1723,
+            "word": "2",
+            "color": "/static/images/ii/stim314.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513668718
+    },
+    {
+        "current_trial": 280,
+        "trialdata": {
+            "rt": 2964,
+            "word": "2",
+            "color": "/static/images/ii/stim346.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513674184
+    },
+    {
+        "current_trial": 281,
+        "trialdata": {
+            "rt": 1081,
+            "word": "1",
+            "color": "/static/images/ii/stim120.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513677766
+    },
+    {
+        "current_trial": 282,
+        "trialdata": {
+            "rt": 1996,
+            "word": "2",
+            "color": "/static/images/ii/stim478.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513682264
+    },
+    {
+        "current_trial": 283,
+        "trialdata": {
+            "rt": 1683,
+            "word": "1",
+            "color": "/static/images/ii/stim194.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513686448
+    },
+    {
+        "current_trial": 284,
+        "trialdata": {
+            "rt": 2058,
+            "word": "1",
+            "color": "/static/images/ii/stim224.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513691008
+    },
+    {
+        "current_trial": 285,
+        "trialdata": {
+            "rt": 1370,
+            "word": "2",
+            "color": "/static/images/ii/stim508.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513694880
+    },
+    {
+        "current_trial": 286,
+        "trialdata": {
+            "rt": 2066,
+            "word": "1",
+            "color": "/static/images/ii/stim210.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513699448
+    },
+    {
+        "current_trial": 287,
+        "trialdata": {
+            "rt": 1571,
+            "word": "1",
+            "color": "/static/images/ii/stim180.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513703520
+    },
+    {
+        "current_trial": 288,
+        "trialdata": {
+            "rt": 2626,
+            "word": "2",
+            "color": "/static/images/ii/stim512.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513708648
+    },
+    {
+        "current_trial": 289,
+        "trialdata": {
+            "rt": 2112,
+            "word": "1",
+            "color": "/static/images/ii/stim288.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513713263
+    },
+    {
+        "current_trial": 290,
+        "trialdata": {
+            "rt": 2147,
+            "word": "2",
+            "color": "/static/images/ii/stim448.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513717912
+    },
+    {
+        "current_trial": 291,
+        "trialdata": {
+            "rt": 1924,
+            "word": "1",
+            "color": "/static/images/ii/stim144.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513722336
+    },
+    {
+        "current_trial": 292,
+        "trialdata": {
+            "rt": 2379,
+            "word": "1",
+            "color": "/static/images/ii/stim216.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513727215
+    },
+    {
+        "current_trial": 293,
+        "trialdata": {
+            "rt": 1459,
+            "word": "2",
+            "color": "/static/images/ii/stim310.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513731175
+    },
+    {
+        "current_trial": 294,
+        "trialdata": {
+            "rt": 3362,
+            "word": "2",
+            "color": "/static/images/ii/stim414.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513737039
+    },
+    {
+        "current_trial": 295,
+        "trialdata": {
+            "rt": 1388,
+            "word": "2",
+            "color": "/static/images/ii/stim424.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513740927
+    },
+    {
+        "current_trial": 296,
+        "trialdata": {
+            "rt": 1859,
+            "word": "1",
+            "color": "/static/images/ii/stim50.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513745287
+    },
+    {
+        "current_trial": 297,
+        "trialdata": {
+            "rt": 1113,
+            "word": "1",
+            "color": "/static/images/ii/stim252.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513748902
+    },
+    {
+        "current_trial": 298,
+        "trialdata": {
+            "rt": 1564,
+            "word": "2",
+            "color": "/static/images/ii/stim300.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513752967
+    },
+    {
+        "current_trial": 299,
+        "trialdata": {
+            "rt": 979,
+            "word": "2",
+            "color": "/static/images/ii/stim526.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513756446
+    },
+    {
+        "current_trial": 300,
+        "trialdata": {
+            "rt": 1283,
+            "word": "1",
+            "color": "/static/images/ii/stim66.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "1"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513760231
+    },
+    {
+        "current_trial": 301,
+        "trialdata": {
+            "rt": 2532,
+            "word": "2",
+            "color": "/static/images/ii/stim550.png",
+            "phase": "TEST",
+            "hit": true,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513765263
+    },
+    {
+        "current_trial": 302,
+        "trialdata": {
+            "rt": 1723,
+            "word": "1",
+            "color": "/static/images/ii/stim158.png",
+            "phase": "TEST",
+            "hit": false,
+            "response": "2"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513769487
+    },
+    {
+        "current_trial": 303,
+        "trialdata": {
+            "phase": "postquestionnaire",
+            "status": "begin"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513771994
+    },
+    {
+        "current_trial": 304,
+        "trialdata": {
+            "phase": "postquestionnaire",
+            "status": "submit"
+        },
+        "uniqueid": "A2PXJTMWGUE5DC:3DPNQGW4LMUT13XAAIM454510S3643",
+        "dateTime": 1413513797959
+    }
+]

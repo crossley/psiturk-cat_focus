@@ -1,0 +1,44 @@
+<div id="container-instructions">
+
+	<h1>Instructions</h1>
+
+	<hr>
+
+	<div class="instructions well">
+
+	    <p> 
+            This is a prototype of a game designed to help people learn to avoid distraction.  The game is based on classic category learning experiments using stimuli with binary valued stimulus dimensions.  On each trial of the game, participants must classify a stimulus into one of two categories by pressing a corresponding key on the keyboard.  After making their choice, they are given on-screen feedback indicating whether they chose correctly or incorrectly.  Category membership of each stimulus is determined by one of a handful of rules, each representing a different level of difficulty in rule discovery and rule application.  They perform trials until they reach either some criterion number consecutive correct or incorrect responses.  If criterion is reached with consecutive correct responses, they advance to a new problem with increased difficulty.  If criterion is reached with consecutive incorrect responses, they are bumped down to an easier problem.  The game is quit after participants have attempted some fixed number of problems. 
+        </p>
+	    
+	    <p> Each time a stimulus is shown, press "0" or "1" to categorize it. </p>
+
+        <p> You have 8 seconds to make your decision on each trial. After each selection, we will tell you if you answered correctly or incorrectly. Taking too much time to respond will result in an incorrect answer. </p>
+
+	    <script type="text/javascript">
+	    //console.log(psiTurk.getInstructionIndicator())
+	    </script>
+
+	</div>
+<!--     <div id="img-center">
+        <img src="/static/images/example.png"\>
+    </div> -->
+
+	<hr>
+
+
+    <div class="instructionsnav">
+        <div class="row">
+            <div class="col-xs-2">
+            	<!-- no previous button on first screen -->
+            </div>
+            <div class="col-xs-8">
+            </div>
+            <div class="col-xs-2" style="padding-bottom:50px;">
+                <button type="button" id="next" value="next" class="btn btn-primary btn-lg continue">
+                Next <span class="glyphicon glyphicon-arrow-right"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+</div>
